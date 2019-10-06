@@ -1,0 +1,22 @@
+{
+    "DEPATURE": "Departure",
+    "AIRPORT": "Airport",
+    "ARRIVAL": "Arrival",
+    "AIRLINE": "Airline",
+    "SEARCH": "Search",
+    "OUTBOUND-DURATION": "Outbound Duration (Hours)",
+    "INBOUND-DURATION": "Inbound Duration (Hours)",
+    "TOTAL-AMOUNT": "Total Amount (USD)",
+    "ValidationMessages": {
+        "DepartureAirportRequired": "Departure Airport is required",
+        "DepartureAirport3Characters": "Departure Airport is 3 aphanumeric charaters",
+        "DepartureDateRequired": "Departure Date is required",
+        "ArrivalAirportRequired": "Arrival Airport is required",
+        "ArrivalAirport3Characters": "Arrival Airport is 3 alphanumeric charaters",
+        "ReturnDateRequired": "Return Date is required",
+        "DepartureDateMustNotBeforeToday": "Departure Date cannnot earlier than today",
+        "ReturnDateMustNotBeforeToday": "Return Date cannnot earlier than today",
+        "ReturnDateMustNotBeforeDepatureDate": "Return Date cannnot earlier than departure date",
+        "InvalidDate": "Invalid date format"
+    }
+}
